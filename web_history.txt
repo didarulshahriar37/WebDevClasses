@@ -1,0 +1,10 @@
+Web History
+
+From 1990s to the present time, web has passed through some important phases. The evolution started from the static web (Web 1.0).
+
+The Static Web (Web 1.0) is the earliest form of web. It is a read-only web where users can only view or read information but they can't interact. It actually has no interactive features. These web pages mostly contains text and images. In these web pages, the request for new data requires a full-page reload. HTML, CSS, JavaScript etc. are used to create and structure these web pages.
+
+The Interactive Web (Web 2.0) was introduced in 2000s. Web 2.0 contains user-generated content. It is a dynamic web with various kind of interactive features. Users can interact , contribute and engage themselves by creating and sharing their own content. Web 2.0 provides real-time interaction. Multiple users can collaborate and edit content collectively. In Web 2.0, a reload between pages is also required. AJAX (Asynchronous JavaScript and XML) , JavaScript Frameworks etc. are used to build this kind of web.           
+
+By the 2010s, we got the Semantic and Decentralized Web (Web 3.0). Web 3.0 is more user-centric, secure and intelligent. Among all features , the Blockchain Technology and the Artificial Intelligence(AI) are most notable. Blockchain has opened up possibilities for decentralization which supports data security and privacy. Besides, AI helps users to get more accurate , relevant and personalized content. The Semantic web concept enables more intelligent and personalized web experiences. This era also introduced component-based frontends. This web supports single-page applications (SPAs) where an entire site loads once. Blockchain, Decentralized applications, Artificial Intelligence etc. are the key tools here .
+
