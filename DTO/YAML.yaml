@@ -1,0 +1,19 @@
+company:
+  bmw:
+    foundingYear: 1916
+    someCarModels:
+      - M5 Sedan
+      - X6 M Competition
+      - 8 Series Coupe
+  porsche:
+    foundingYear: 1931
+    someCarModels:
+      - 911 GT3 RS
+      - 718 Cayman
+      - Panamera
+  rollsRoyce:
+    foundingYear: 1904
+    someCarModels: 
+      - Ghost Series II
+      - Cullinan Series II
+      - Black Badge Ghost Series II

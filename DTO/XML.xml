@@ -1,0 +1,24 @@
+<tournament>
+<tourName>UEFA Champions League</tourName>
+<year>2024-2025</year>
+<teams>
+ <name>Real Madrid CF</name>
+ <uclTitles>15</uclTitles>
+</teams>
+<teams>
+ <name>AC Milan</name>
+ <uclTitles>7</uclTitles>
+</teams>
+<teams>
+ <name>Liverpool</name>
+ <uclTitles>6</uclTitles>
+</teams>
+<teams>
+ <name>FC Bayern München</name>
+ <uclTitles>6</uclTitles>
+</teams>
+<teams>
+ <name>FC Barcelona</name>
+ <uclTitles>5</uclTitles>
+</teams>
+</tournament>
