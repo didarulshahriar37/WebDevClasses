@@ -1,0 +1,18 @@
+{
+    "studentId" : 230042137,
+    "studentName" : "Didarul Shahriar",
+    "courses" : [
+        {
+            "courseCode" : 4107,
+            "courseName" : "Structured Programming I"
+        },
+        {
+            "courseCode" : 4101,
+            "courseName" : "Introduction to Software Engineering"
+        },
+        {
+            "courseCode" : 4143,
+            "courseName" : "Physics II"
+        }
+    ]
+}
